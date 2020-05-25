@@ -119,7 +119,24 @@ print(fact(5))
 请编写move(n, a, b, c)函数，它接收参数n，表示3个柱子A、B、C中第1个柱子A的盘子数量，
 然后打印出把所有盘子从A借助B移动到C的方法'''
 
+step = 0
 
-def move(n, a, b, c):
-    if n == 1:
-        print(a, '-->', c)
+
+def move(n,a,b,c):
+    global step
+    if n==1:  #这个地方就是递归函数调用终止的条件
+        print(a,'-->',c)
+        step=step+1
+    else:
+        move(n-1,a,c,b)  #把上面n-1个从a-->b
+        move(1,a,b,c)    #把最下面一个从a-->c
+        move(n-1,b,a,c)  #把上面n-1个从b-->c
+
+
+def main():
+    n=eval(input("please input the numbers of the plates:"))
+    move(n,'A','B','C')  #这里的A B C 表示圆柱
+    print("the total steps to move the plates from a to c is {}".format(step))
+
+
+main()
