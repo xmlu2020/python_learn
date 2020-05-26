@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @Time    : 2020/7/13 18:46
 # @Author  : XiaomeiLu
@@ -32,3 +31,31 @@ for i,value in enumerate(['A','B','C']):
 
 for x,y in [(1,1),(2,4),(3,9)]:
     print(x,y)
+
+
+def findMinAndMax(L):
+    if L!=[]:
+        (max,min) = (L[0],L[0])
+        for x in L:
+            if x > max:
+                max = x
+            if x < min:
+                min = x
+        return(max,min)
+    else:
+        return(None,None)
+
+
+if findMinAndMax([]) != (None,None):
+    print('测试失败！')
+elif findMinAndMax([7]) != (7,7):
+    print('测试失败！')
+elif findMinAndMax([7]) != (7, 7):
+    print('测试失败!')
+elif findMinAndMax([7,1]) != (7, 1):
+    print('测试失败!')
+elif findMinAndMax([7, 1, 3, 9, 5]) != (9, 1):
+    print('测试失败!')
+else:
+    print('测试成功！')
+
