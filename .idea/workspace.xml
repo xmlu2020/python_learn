@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aceeaa58-c2c0-437b-991f-84e902af387f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3_3高级特性_列表生成式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_learn.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_1高级特性_切片.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_1高级特性_切片.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_2高级特性_迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_2高级特性_迭代.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events_dag.py" beforeDir="false" />
-    </list>
+    <list default="true" id="aceeaa58-c2c0-437b-991f-84e902af387f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
