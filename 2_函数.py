@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @Time    : 2020/7/6 21:44
 # @Author  : XiaomeiLu
