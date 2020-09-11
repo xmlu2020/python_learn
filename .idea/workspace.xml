@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aceeaa58-c2c0-437b-991f-84e902af387f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/f1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/1_回文数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/2_反转整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/3_罗马数字转整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/4_数组所有子集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/5_最长公共前缀.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/6_x的平方根.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/7_冒泡排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高阶文件操作.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_1高阶函数_map_reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_1高阶函数_map_reduce.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,43 +32,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1935" />
-    <option name="height" value="1039" />
-  </component>
   <component name="ProjectId" id="1cOf7MNz1Oewt98jdziYH0LdcCI" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../auto_test/MALL/Events_Unit_Test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\python_learn" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.4_1高阶函数_map_reduce">
-    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.6_x的平方根">
+    <configuration name="2_反转整数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,12 +59,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/111.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/2_反转整数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_3高级特性_列表生成式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_罗马数字转整数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +81,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_3高级特性_列表生成式.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/3_罗马数字转整数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_4高级特性_生成器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4_数组所有子集" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,12 +103,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_4高级特性_生成器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/4_数组所有子集.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_5高级特性_迭代器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5_最长公共前缀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,12 +125,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_5高级特性_迭代器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/5_最长公共前缀.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_1高阶函数_map_reduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6_x的平方根" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,12 +147,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_1高阶函数_map_reduce.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/6_x的平方根.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4_1高阶函数_map_reduce" />
-        <item itemvalue="Python.3_5高级特性_迭代器" />
-        <item itemvalue="Python.3_4高级特性_生成器" />
-        <item itemvalue="Python.111" />
-        <item itemvalue="Python.3_3高级特性_列表生成式" />
+        <item itemvalue="Python.6_x的平方根" />
+        <item itemvalue="Python.5_最长公共前缀" />
+        <item itemvalue="Python.4_数组所有子集" />
+        <item itemvalue="Python.3_罗马数字转整数" />
+        <item itemvalue="Python.2_反转整数" />
       </list>
     </recent_temporary>
   </component>
@@ -186,44 +181,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594043007055</updated>
+      <workItem from="1595232763940" duration="1294000" />
+      <workItem from="1596108818808" duration="6651000" />
+      <workItem from="1597233746951" duration="104000" />
+      <workItem from="1599560864518" duration="19557000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1548" height="831" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2526455" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986339" visible="true" weight="0.3266762" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997114" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.50136614" weight="0.32107496" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -242,5 +215,70 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="181" key="#Log_Highlighting_(ideolog)" timestamp="1596168030912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="455" y="181" key="#Log_Highlighting_(ideolog)/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596168030912" />
+    <state x="525" y="99" key="#xdebugger.evaluate" timestamp="1599652704099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="99" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1599652704099" />
+    <state x="549" y="152" key="FileChooserDialogImpl" timestamp="1599802117748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="152" key="FileChooserDialogImpl/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1599802117748" />
+    <state width="1478" height="176" key="GridCell.Tab.0.bottom" timestamp="1599657468609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596168004609" />
+    <state width="1478" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1599657468609" />
+    <state width="1478" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599655976073" />
+    <state width="1478" height="176" key="GridCell.Tab.0.center" timestamp="1599657468608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="206" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596168004609" />
+    <state width="1478" height="176" key="GridCell.Tab.0.center/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1599657468608" />
+    <state width="1478" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599655976072" />
+    <state width="1478" height="176" key="GridCell.Tab.0.left" timestamp="1599657468608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="206" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596168004609" />
+    <state width="1478" height="176" key="GridCell.Tab.0.left/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1599657468608" />
+    <state width="1478" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599655976072" />
+    <state width="1478" height="176" key="GridCell.Tab.0.right" timestamp="1599657468608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="206" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596168004609" />
+    <state width="1478" height="176" key="GridCell.Tab.0.right/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1599657468608" />
+    <state width="1478" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599655976072" />
+    <state width="1478" height="239" key="GridCell.Tab.1.bottom" timestamp="1599654637053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599654637053" />
+    <state width="1478" height="239" key="GridCell.Tab.1.center" timestamp="1599654637053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599654637053" />
+    <state width="1478" height="239" key="GridCell.Tab.1.left" timestamp="1599654637053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599654637053" />
+    <state width="1478" height="239" key="GridCell.Tab.1.right" timestamp="1599654637053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599654637053" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_learn$4_1_map_reduce.coverage" NAME="4_1高阶函数_map_reduce Coverage Results" MODIFIED="1596108875045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$2_.coverage" NAME="2_反转整数 Coverage Results" MODIFIED="1599565883777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$4_.coverage" NAME="4_数组所有子集 Coverage Results" MODIFIED="1599648894593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$1_.coverage" NAME="1_回文数 Coverage Results" MODIFIED="1599562440395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$5_.coverage" NAME="5_最长公共前缀 Coverage Results" MODIFIED="1599656946362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$6_x.coverage" NAME="6_x的平方根 Coverage Results" MODIFIED="1599657468601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$.coverage" NAME="高阶文件操作 Coverage Results" MODIFIED="1596168004602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$3_.coverage" NAME="3_罗马数字转整数 Coverage Results" MODIFIED="1599570304470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
   </component>
 </project>
