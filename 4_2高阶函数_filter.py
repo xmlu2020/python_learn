@@ -20,6 +20,8 @@ print(list(filter(not_empty, ['A', '', 'B', None, 'C', '  '])))
 
 '''得到所有素数'''
 
+'''构造一个从3开始的奇数序列'''
+
 
 def _odd_iter():
     n = 1
@@ -28,8 +30,14 @@ def _odd_iter():
         yield n
 
 
+'''定义筛选函数'''
+
+
 def _not_divisible(n):
-    return lambda  x: x % n >0
+    return lambda x: x % n > 0
+
+
+'''定义生成器，不断返回下一个素数'''
 
 
 def primes():

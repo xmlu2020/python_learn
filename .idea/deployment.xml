@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="xmlu@172.16.10.19:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="xmlu@172.16.10.19:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Events_Unit_Test" local="$USER_HOME$/auto_test/Events_Unit_Test" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
