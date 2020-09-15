@@ -11,6 +11,7 @@ def SelectSort(arr):
     数据规模越小越好,不占用额外内存空间
     时间复杂度:O(n²)
     空间复杂度：O(1)"""
+
     for i in range(len(arr) - 1):
         # 记录最小数的索引
         minIndex = i

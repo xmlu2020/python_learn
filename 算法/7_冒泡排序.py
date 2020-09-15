@@ -13,7 +13,6 @@ def BubbleSort(lst):
     空间复杂度O(1),稳定
     额外空间开销出在交换数据时那一个过渡空间，空间复杂度O(1)
     """
-
     for i in range(len(lst)):
         for j in range(i+1, len(lst)):
             if lst[i] > lst[j]:

@@ -12,6 +12,7 @@ def QuickSort(arr: list, left: int, right: int) -> None:
     最坏时间复杂度：O(n2)
     空间复杂度：O(logn)
     稳定性：不稳定"""
+    
     if left >= right:  # 递归的退出条件
         return
     base = arr[left]  # 设定起始的基准元素
