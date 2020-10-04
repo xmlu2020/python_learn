@@ -5,20 +5,13 @@
     <list default="true" id="aceeaa58-c2c0-437b-991f-84e902af387f" name="Default Changelist" comment="" />
 =======
     <list default="true" id="aceeaa58-c2c0-437b-991f-84e902af387f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/1_回文数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/2_反转整数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/3_罗马数字转整数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/4_数组所有子集.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/5_最长公共前缀.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/6_x的平方根.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/7_冒泡排序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/算法/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/高阶文件操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/17_删除列表中的元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/18_字符串转整数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/19_列表中两个元素的和等于目标元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/20_给列表中的字典排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/21_删除列表中的重复元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/22_统计文本中单词频次最高的10的单词.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_1高阶函数_map_reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_1高阶函数_map_reduce.py" afterDir="false" />
     </list>
 <<<<<<< HEAD
 >>>>>>> 9fc35e6ab4bcbe15812193952530c5af0ec5f58e
@@ -50,16 +43,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../auto_test/MALL/Events_Unit_Test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\python_learn\算法" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\study\python_learn" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6_x的平方根">
-    <configuration name="2_反转整数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.21_删除列表中的重复元素">
+    <configuration name="0_批量提取pdf数据" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,12 +63,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/2_反转整数.py" />
+      <option name="SCRIPT_NAME" value="D:\study\python_learn\练习\0_批量提取pdf数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_罗马数字转整数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17_删除列表中的元素" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,12 +85,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/3_罗马数字转整数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/17_删除列表中的元素.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_数组所有子集" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18_字符串转整数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,12 +107,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/4_数组所有子集.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/18_字符串转整数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_最长公共前缀" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19_列表中两个元素的和等于目标元素" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,12 +129,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/5_最长公共前缀.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/19_列表中两个元素的和等于目标元素.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_x的平方根" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20_给列表中的字典排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,12 +151,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/算法/6_x的平方根.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/20_给列表中的字典排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="21_删除列表中的重复元素" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/21_删除列表中的重复元素.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6_x的平方根" />
-        <item itemvalue="Python.5_最长公共前缀" />
-        <item itemvalue="Python.4_数组所有子集" />
-        <item itemvalue="Python.3_罗马数字转整数" />
-        <item itemvalue="Python.2_反转整数" />
+        <item itemvalue="Python.21_删除列表中的重复元素" />
+        <item itemvalue="Python.20_给列表中的字典排序" />
+        <item itemvalue="Python.19_列表中两个元素的和等于目标元素" />
+        <item itemvalue="Python.18_字符串转整数" />
+        <item itemvalue="Python.17_删除列表中的元素" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +210,11 @@
       <workItem from="1595232763940" duration="1294000" />
       <workItem from="1596108818808" duration="6651000" />
       <workItem from="1597233746951" duration="104000" />
-      <workItem from="1599560864518" duration="19557000" />
+      <workItem from="1599560864518" duration="40392000" />
+      <workItem from="1600238450645" duration="14425000" />
+      <workItem from="1600684108182" duration="6360000" />
+      <workItem from="1600850684772" duration="4729000" />
+      <workItem from="1601208641549" duration="15580000" />
     </task>
     <servers />
   </component>
@@ -226,6 +248,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="469" y="157" key="#Inspections" timestamp="1600852183977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="469" y="157" key="#Inspections/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1600852183977" />
+    <state x="591" y="-882" key="#Inspections/0.0.1536.824/5.-1080.1920.1040@5.-1080.1920.1040" timestamp="1600430623248" />
     <state x="455" y="181" key="#Log_Highlighting_(ideolog)" timestamp="1596168030912">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -238,55 +265,87 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="152" key="FileChooserDialogImpl/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1599802117748" />
-    <state width="1478" height="176" key="GridCell.Tab.0.bottom" timestamp="1599657468609">
+    <state width="1493" height="175" key="GridCell.Tab.0.bottom" timestamp="1601730655930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1478" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596168004609" />
-    <state width="1478" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1599657468609" />
-    <state width="1478" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599655976073" />
-    <state width="1478" height="176" key="GridCell.Tab.0.center" timestamp="1599657468608">
+    <state width="1493" height="319" key="GridCell.Tab.0.bottom/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1601278102771" />
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824/5.-1080.1920.1040@5.-1080.1920.1040" timestamp="1600433275260" />
+    <state width="1493" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601730655930" />
+    <state width="1493" height="175" key="GridCell.Tab.0.center" timestamp="1601730655929">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1478" height="206" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596168004609" />
-    <state width="1478" height="176" key="GridCell.Tab.0.center/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1599657468608" />
-    <state width="1478" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599655976072" />
-    <state width="1478" height="176" key="GridCell.Tab.0.left" timestamp="1599657468608">
+    <state width="1493" height="319" key="GridCell.Tab.0.center/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1601278102771" />
+    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1536.824/5.-1080.1920.1040@5.-1080.1920.1040" timestamp="1600433275260" />
+    <state width="1493" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601730655929" />
+    <state width="1493" height="175" key="GridCell.Tab.0.left" timestamp="1601730655929">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1478" height="206" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596168004609" />
-    <state width="1478" height="176" key="GridCell.Tab.0.left/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1599657468608" />
-    <state width="1478" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599655976072" />
-    <state width="1478" height="176" key="GridCell.Tab.0.right" timestamp="1599657468608">
+    <state width="1493" height="319" key="GridCell.Tab.0.left/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1601278102770" />
+    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1536.824/5.-1080.1920.1040@5.-1080.1920.1040" timestamp="1600433275260" />
+    <state width="1493" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601730655929" />
+    <state width="1493" height="175" key="GridCell.Tab.0.right" timestamp="1601730655929">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1478" height="206" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1596168004609" />
-    <state width="1478" height="176" key="GridCell.Tab.0.right/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1599657468608" />
-    <state width="1478" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599655976072" />
-    <state width="1478" height="239" key="GridCell.Tab.1.bottom" timestamp="1599654637053">
+    <state width="1493" height="319" key="GridCell.Tab.0.right/0.0.1536.824/5.-1080.1920.1040@0.0.1536.824" timestamp="1601278102771" />
+    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1536.824/5.-1080.1920.1040@5.-1080.1920.1040" timestamp="1600433275260" />
+    <state width="1493" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601730655929" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1601730528616">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599654637053" />
-    <state width="1478" height="239" key="GridCell.Tab.1.center" timestamp="1599654637053">
+    <state width="1478" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824/5.-1080.1920.1040@5.-1080.1920.1040" timestamp="1600177747213" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601730528616" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1601730528616">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599654637053" />
-    <state width="1478" height="239" key="GridCell.Tab.1.left" timestamp="1599654637053">
+    <state width="1478" height="239" key="GridCell.Tab.1.center/0.0.1536.824/5.-1080.1920.1040@5.-1080.1920.1040" timestamp="1600177747213" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601730528616" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1601730528616">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599654637053" />
-    <state width="1478" height="239" key="GridCell.Tab.1.right" timestamp="1599654637053">
+    <state width="1478" height="239" key="GridCell.Tab.1.left/0.0.1536.824/5.-1080.1920.1040@5.-1080.1920.1040" timestamp="1600177747213" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601730528615" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1601730528616">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599654637053" />
+    <state width="1478" height="239" key="GridCell.Tab.1.right/0.0.1536.824/5.-1080.1920.1040@5.-1080.1920.1040" timestamp="1600177747213" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601730528616" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_learn$4_1_map_reduce.coverage" NAME="4_1高阶函数_map_reduce Coverage Results" MODIFIED="1596108875045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learn$2_.coverage" NAME="2_反转整数 Coverage Results" MODIFIED="1599565883777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
-    <SUITE FILE_PATH="coverage/python_learn$4_.coverage" NAME="4_数组所有子集 Coverage Results" MODIFIED="1599648894593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
-    <SUITE FILE_PATH="coverage/python_learn$1_.coverage" NAME="1_回文数 Coverage Results" MODIFIED="1599562440395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
-    <SUITE FILE_PATH="coverage/python_learn$5_.coverage" NAME="5_最长公共前缀 Coverage Results" MODIFIED="1599656946362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$8_.coverage" NAME="8_选择排序 Coverage Results" MODIFIED="1600092127412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$11_python.coverage" NAME="11_python的垃圾回收机制 Coverage Results" MODIFIED="1600244742533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$20_.coverage" NAME="20_给列表中的字典排序 Coverage Results" MODIFIED="1601729684133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$0_0pdf.coverage" NAME="0_0批量提取pdf数据 Coverage Results" MODIFIED="1600852686016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$18_.coverage" NAME="18_字符串转整数 Coverage Results" MODIFIED="1601458033296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$8_searchmatch.coverage" NAME="8_正则中的search和match Coverage Results" MODIFIED="1600240543081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$1_.coverage" NAME="1_回文数 Coverage Results" MODIFIED="1601220217008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
     <SUITE FILE_PATH="coverage/python_learn$6_x.coverage" NAME="6_x的平方根 Coverage Results" MODIFIED="1599657468601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$14_.coverage" NAME="14_斐波那契数列 Coverage Results" MODIFIED="1600692085438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$13_.coverage" NAME="13_去空格 Coverage Results" MODIFIED="1600432294693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$16_sql.coverage" NAME="16_sql注入 Coverage Results" MODIFIED="1600433275249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$2_.coverage" NAME="2_反转整数 Coverage Results" MODIFIED="1601278102686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$4_.coverage" NAME="4_正则匹配 Coverage Results" MODIFIED="1600432079351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$6_lambda.coverage" NAME="6_lambda求积 Coverage Results" MODIFIED="1600174010428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$10_excel.coverage" NAME="10_读取excel文件 Coverage Results" MODIFIED="1600242903454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$9_.coverage" NAME="9_快速排序 Coverage Results" MODIFIED="1600157004628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
     <SUITE FILE_PATH="coverage/python_learn$.coverage" NAME="高阶文件操作 Coverage Results" MODIFIED="1596168004602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learn$3_.coverage" NAME="3_罗马数字转整数 Coverage Results" MODIFIED="1599570304470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$11_.coverage" NAME="11_水仙花数 Coverage Results" MODIFIED="1600689404462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$0_pdf.coverage" NAME="0_提取pdf数据 Coverage Results" MODIFIED="1600851754784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$13_n.coverage" NAME="13_n的阶乘 Coverage Results" MODIFIED="1600691709926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$2_10.coverage" NAME="2_列表推导式提取大于10的数 Coverage Results" MODIFIED="1600171662226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$15_.coverage" NAME="15_幂的递归 Coverage Results" MODIFIED="1600693262882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$7_.coverage" NAME="7_冒泡排序 Coverage Results" MODIFIED="1600088188772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$19_.coverage" NAME="19_列表中两个元素的和等于目标元素 Coverage Results" MODIFIED="1601706145621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$5_.coverage" NAME="5_字符串去重并升序排列 Coverage Results" MODIFIED="1600173680933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$21_.coverage" NAME="21_删除列表中的重复元素 Coverage Results" MODIFIED="1601730655914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$12_.coverage" NAME="12_完全数 Coverage Results" MODIFIED="1600690482443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$4_1_map_reduce.coverage" NAME="4_1高阶函数_map_reduce Coverage Results" MODIFIED="1596108875045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learn$10_.coverage" NAME="10_递归求和 Coverage Results" MODIFIED="1600175808871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法" />
+    <SUITE FILE_PATH="coverage/python_learn$15_json.coverage" NAME="15_字典和json字符串转化 Coverage Results" MODIFIED="1600431589736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$17_.coverage" NAME="17_删除列表中的元素 Coverage Results" MODIFIED="1601454938160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/python_learn$3_.coverage" NAME="3_随机数生成 Coverage Results" MODIFIED="1600172335267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
   </component>
 </project>
